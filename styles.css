@@ -1,6 +1,9 @@
 .text-header{
     font-family: 'Satisfy', cursive !important;
 }
+#carrito{
+    width:  50px;
+}
 #imagenbaner{
     width:  100%;
 }
