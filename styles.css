@@ -2,9 +2,27 @@
     font-family: 'Satisfy', cursive !important;
 }
 #imagenbaner{
-    object-fit: cover ;
+    width:  100%;
 }
 .container-fluid
 {
     padding: 0 0px;
+}
+.row{
+    margin-top: 20px !important;
+}
+.nav-link{
+    color: white !important;
+    background-color: transparent !important;
+}
+
+.card{
+    width: 100% !important;
+}
+.btnBlanco{
+    background-color: #F3E8DD !important;
+}
+
+.btnRojo{
+    background-color: #FB575B !important;
 }
